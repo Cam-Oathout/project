@@ -1,0 +1,16 @@
+FinalProj Dataset Column Definitions
+
+"Reef" contains sample location name the sampling event number and if the sample is on a reef (R) or is a control (C).
+
+"Reef_Name" is the shortened version of the sample location name
+
+"Reef_Material" is the type of material the reef was built out of
+
+"Sampling_Event" shows if the sample was taken during the 1st to the 6th sample occassion
+
+"Reef_or_Control" shows if the sample was collected over an artificial reef or at a control site
+
+"Year" is what year the sample was taken
+
+"Alosa_sp" and beyond columns are scientific names of species present (1) or absent (0) from the sample
+
