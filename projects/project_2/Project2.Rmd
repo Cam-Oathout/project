@@ -128,7 +128,12 @@ ggplot(projdata2, aes(x = Water_Temp, y = n, color = Reef_Name)) +
 Part Three
 
 1. Add and commit this document (5 pts)
-#Commands here
+> library(gitcreds)
+> gitcreds_set()
+
+? Enter password or token: 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
+
+In the Git tab
 
 2. Push your changes to github (10 pts)
 #Commands here
