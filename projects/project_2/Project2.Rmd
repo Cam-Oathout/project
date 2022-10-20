@@ -133,10 +133,10 @@ Part Three
 
 ? Enter password or token: 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
 
-In the Git tab
+#In the Git tab (upper right), select the Project2.Rmd and hit Commit. In the pop-up window type what the document is. Hit commit.
 
 2. Push your changes to github (10 pts)
-#Commands here
+#In the Git Tab select the green up pointing arrow to push. You should now be able to find my Project2.Rmd file on my Github in my project repository.
 
 MS students
 My expectation is that you’ll do this with your own data. If any part of this doesn’t make sense with your data, please get in touch ASAP so we can work it out.
